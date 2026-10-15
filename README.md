@@ -1,16 +1,20 @@
-## Hi there 👋
+## About Me
 
-<!--
-**Neurozepam/Neurozepam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Artificial Intelligence at ITMO University, interested in machine learning research.
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Neural Network Quantization & Pruning
+- Machine Learning in Bioinformatics (RNA-seq, Gene Fusions)
+- Graph Neural Networks & Fraud Detection
+- Large Language Models, Inference & Fine-tuning
+- Deep Learning & Artificial Intelligence
+
+## Beyond Research
+
+Interested in workstation customization, ergonomics, and live music coding with Strudel.
+
+## Connect
+
+- **Telegram:** [@dragunov_tt](https://t.me/dragunov_tt)
+- **Email:** [deal_dragunov@mail.ru](mailto:deal_dragunov@mail.ru)
