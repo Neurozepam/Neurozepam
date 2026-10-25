@@ -10,10 +10,6 @@ MSc student in Artificial Intelligence at ITMO University, interested in machine
 - Large Language Models, Inference & Fine-tuning
 - Deep Learning & Artificial Intelligence
 
-## Beyond Research
-
-Interested in workstation customization, ergonomics, and live music coding with Strudel.
-
 ## Connect
 
 - **Telegram:** [@dragunov_tt](https://t.me/dragunov_tt)
